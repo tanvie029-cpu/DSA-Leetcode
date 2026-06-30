@@ -38,4 +38,12 @@ To strengthen problem-solving skills and prepare for software engineering interv
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanvie029-cpu/DSA/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/tanvie029-cpu/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
+## String
+|  |
+| ------- |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/tanvie029-cpu/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 <!---LeetCode Topics End-->
