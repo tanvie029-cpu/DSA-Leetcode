@@ -21,6 +21,7 @@ To strengthen problem-solving skills and prepare for software engineering interv
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanvie029-cpu/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/tanvie029-cpu/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/tanvie029-cpu/DSA/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/tanvie029-cpu/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,6 +41,7 @@ To strengthen problem-solving skills and prepare for software engineering interv
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanvie029-cpu/DSA/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/tanvie029-cpu/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -57,4 +59,5 @@ To strengthen problem-solving skills and prepare for software engineering interv
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanvie029-cpu/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/tanvie029-cpu/DSA/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/tanvie029-cpu/DSA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
