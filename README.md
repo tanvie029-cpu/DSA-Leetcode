@@ -20,6 +20,7 @@ To strengthen problem-solving skills and prepare for software engineering interv
 | [0053-maximum-subarray](https://github.com/tanvie029-cpu/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanvie029-cpu/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/tanvie029-cpu/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tanvie029-cpu/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/tanvie029-cpu/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanvie029-cpu/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
@@ -37,10 +38,12 @@ To strengthen problem-solving skills and prepare for software engineering interv
 | ------- |
 | [0001-two-sum](https://github.com/tanvie029-cpu/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/tanvie029-cpu/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tanvie029-cpu/DSA/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanvie029-cpu/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tanvie029-cpu/DSA/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanvie029-cpu/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
