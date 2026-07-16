@@ -26,6 +26,7 @@ To strengthen problem-solving skills and prepare for software engineering interv
 | [0217-contains-duplicate](https://github.com/tanvie029-cpu/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/tanvie029-cpu/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/tanvie029-cpu/DSA/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/tanvie029-cpu/DSA/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanvie029-cpu/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -82,4 +83,5 @@ To strengthen problem-solving skills and prepare for software engineering interv
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanvie029-cpu/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/tanvie029-cpu/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
