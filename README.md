@@ -20,6 +20,7 @@ To strengthen problem-solving skills and prepare for software engineering interv
 | [0015-3sum](https://github.com/tanvie029-cpu/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanvie029-cpu/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanvie029-cpu/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/tanvie029-cpu/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/tanvie029-cpu/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanvie029-cpu/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanvie029-cpu/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -84,6 +85,7 @@ To strengthen problem-solving skills and prepare for software engineering interv
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanvie029-cpu/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/tanvie029-cpu/DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanvie029-cpu/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/tanvie029-cpu/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
