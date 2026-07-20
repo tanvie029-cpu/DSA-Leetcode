@@ -1,22 +1,25 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        if (x == 0)
-            return x;
-        int first = 1, last = x;
-        while (first <= last) {
-            int mid = first + (last - first) / 2;
-            // mid * mid == x gives runtime error
-            if (mid  == x / mid)
+        int left=0;
+        int right=x;
+        int answer=0;
+        
+        while(left<=right){
+            int mid=left+(right-left)/2;
+            long long square=1LL*mid*mid;
+
+            if(square==x){
                 return mid;
-            else if (mid > x / mid) {
-                last = mid - 1;
             }
-            else {
-                first = mid + 1;
+            else if(square>x){
+                right=mid-1;
+            }
+            else{
+                answer=mid;
+                left=mid+1;
             }
         }
-        return last;
+        return answer;  
     }
 };
-    
