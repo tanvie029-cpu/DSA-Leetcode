@@ -60,6 +60,7 @@ To strengthen problem-solving skills and prepare for software engineering interv
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/tanvie029-cpu/DSA/tree/master/0069-sqrtx) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/tanvie029-cpu/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## String
 |  |
@@ -86,6 +87,7 @@ To strengthen problem-solving skills and prepare for software engineering interv
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanvie029-cpu/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanvie029-cpu/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/tanvie029-cpu/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanvie029-cpu/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/tanvie029-cpu/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
