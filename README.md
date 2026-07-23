@@ -24,6 +24,7 @@ To strengthen problem-solving skills and prepare for software engineering interv
 | [0053-maximum-subarray](https://github.com/tanvie029-cpu/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanvie029-cpu/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanvie029-cpu/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/tanvie029-cpu/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/tanvie029-cpu/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tanvie029-cpu/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/tanvie029-cpu/DSA/tree/master/0238-product-of-array-except-self) |
@@ -90,6 +91,7 @@ To strengthen problem-solving skills and prepare for software engineering interv
 | [0035-search-insert-position](https://github.com/tanvie029-cpu/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/tanvie029-cpu/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanvie029-cpu/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/tanvie029-cpu/DSA/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/tanvie029-cpu/DSA/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/tanvie029-cpu/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
