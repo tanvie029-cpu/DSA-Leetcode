@@ -30,6 +30,7 @@ To strengthen problem-solving skills and prepare for software engineering interv
 | [0238-product-of-array-except-self](https://github.com/tanvie029-cpu/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/tanvie029-cpu/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/tanvie029-cpu/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/tanvie029-cpu/DSA/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanvie029-cpu/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -94,4 +95,5 @@ To strengthen problem-solving skills and prepare for software engineering interv
 | [0162-find-peak-element](https://github.com/tanvie029-cpu/DSA/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/tanvie029-cpu/DSA/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/tanvie029-cpu/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/tanvie029-cpu/DSA/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
